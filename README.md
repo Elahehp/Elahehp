@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Eli
+I’m building my portfolio to show the projects I created during my data course.
 
-<!--
-**Elahehp/Elahehp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I have learnt:
+- Excel and data basics
+- Python / Google Colab
+- SQL / MySQL Workbench
+- Tableau / Power BI dashboards
 
-Here are some ideas to get you started:
+- ## Projects I have completed:
+- [Name Project 1] – 
+- [Name Project 2]
+- [Name Project 3]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
